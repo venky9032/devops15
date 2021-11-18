@@ -1,2 +1,6 @@
   hi i am here
+<<<<<<< Updated upstream
 this is my first file
+=======
+chage filen.txt
+>>>>>>> Stashed changes
