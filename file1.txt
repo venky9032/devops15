@@ -1,3 +1,7 @@
 hi shankar dal 
 
+<<<<<<< Updated upstream
 this is my first file
+=======
+this is stash lecture, change in file2
+>>>>>>> Stashed changes
