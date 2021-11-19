@@ -1,1 +1,7 @@
+<<<<<<< Updated upstream
 hi venkatesh chapathi tinava
+=======
+hi mahesh how are you
+hi venkatesh chapathi hi: tinava
+
+>>>>>>> Stashed changes
